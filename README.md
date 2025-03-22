@@ -1,3 +1,4 @@
 # 1-st--demo-repo
-this is my first repo
-Author- sadiya-siddiqui
+This is my first repo.
+<br>
+Author- Sadiya-siddiqui
